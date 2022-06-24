@@ -8,7 +8,7 @@
 
 3. 当前的实验进度（截止到6.24）：
 
-    * 本周只选择了1个kernel，只考虑$\beta$的训练（在`beta_train.py`文件里面）。经过研读学长代码，并没有发现问题（除非python库函数里的`scipy.optimize.minimize`有问题），但是预测的结果和`KRR`以及真实的数据集依然相差较大。
+    * 本周只选择了1个kernel，只考虑${\beta}$的训练（在`beta_train.py`文件里面）。经过研读学长代码，并没有发现问题（除非python库函数里的`scipy.optimize.minimize`有问题），但是预测的结果和`KRR`以及真实的数据集依然相差较大。
 
     * 说明：直接运行`model.py`文件即可复现结果
 
